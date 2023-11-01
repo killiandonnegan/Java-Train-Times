@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpclient5-cache-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpclient5-fluent-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpclient5-testing-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpclient5-win-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpcore5-reactive-5.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/httpcore5-testing-5.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/jna-5.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/jna-platform-5.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/rxjava-2.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-client-5.0.3-bin/httpcomponents-client-5.0.3/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpasyncclient-4.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpasyncclient-cache-4.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpclient-cache-4.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="E:/College/4TH YEAR/sem2/CS402/httpcomponents-asyncclient-4.1.4-bin/httpcomponents-asyncclient-4.1.4/lib/httpcore-nio-4.4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
